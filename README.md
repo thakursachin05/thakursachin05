@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-   [![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursachin05&show_icons=true&theme=radical)](https://github.com/thakursachin05/github-readme-stats)
+   [![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursachin05&show_icons=true&theme=dark)](https://github.com/thakursachin05/github-readme-stats)
    
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=github-readme-stats)](https://github.com/thakursachin05/github-readme-stats)
 
