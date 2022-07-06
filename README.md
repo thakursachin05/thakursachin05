@@ -15,7 +15,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=ChillTalk)](https://github.com/thakursachin05/ChillTalk)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
    
-    </div>
+   </div>
     
 <h1 align="center"> Mini Projects </h1>
 
