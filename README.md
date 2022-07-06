@@ -12,6 +12,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
    
 <h1 align="center"> Mini Projects </h1>
+   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Movie-DB)](https://github.com/thakursachin05/Movie-DB)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Calculator_JS)](https://github.com/thakursachin05/Calculator_JS)
    
@@ -22,6 +23,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=JAVA_DSA )](https://github.com/thakursachin05/JAVA_DSA)
    
 <h1 align="center"> Languages Used : </h1>
+   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursachin05)](https://github.com/thakursachin05/thakursachin05)
 
 <!--
