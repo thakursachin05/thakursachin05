@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-
+<div align="center">
+   
    [![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursachin05&show_icons=true&theme=radical&align=center)](https://github.com/thakursachin05/thakursachin05)
 
+ </div>
 <h1 align="center"> Full Stack Projects </h1>
    
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=SmartCrypt)](https://github.com/thakursachin05/SmartCrypt) 
