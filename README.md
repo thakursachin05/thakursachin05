@@ -14,6 +14,7 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Chillax)](https://github.com/thakursachin05/Chillax)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=ChillTalk)](https://github.com/thakursachin05/ChillTalk)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Codial)
    
    </div>
     
