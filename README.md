@@ -6,15 +6,12 @@
    [![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursachin05&show_icons=true&theme=radical&align=center)](https://github.com/thakursachin05/thakursachin05)
 
  </div>
-<h1 align="center"> Full Stack Projects </h1>
+<h1 align="center">FrontEnd Projects </h1>
    
    <div align="center">
    
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=SmartCrypt)](https://github.com/thakursachin05/SmartCrypt) 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Chillax)](https://github.com/thakursachin05/Chillax)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=ChillTalk)](https://github.com/thakursachin05/ChillTalk)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Codial)](https://github.com/thakursachin05/Codial)
    
    </div>
     
