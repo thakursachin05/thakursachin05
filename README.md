@@ -15,11 +15,14 @@
   
    </div>
    
- ## Full Stack Projects
+   <div align="center">
+   
+   # Full Stack Projects
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=ChillTalk)](https://github.com/thakursachin05/ChillTalk)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Codial)](https://github.com/thakursachin05/Codial)
     
+   <div>
 <h1 align="center"> Mini Projects </h1>
 
    <div align="center">
