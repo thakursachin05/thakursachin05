@@ -1,66 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+I am currently a forward Deployed Engineer at Zomato
 
 
-<div align="center">
-   
-   [![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=thakursachin05&show_icons=true&theme=radical&align=center)](https://github.com/thakursachin05/thakursachin05)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendrarana05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachinrajput10101010@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thakursachin05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=thakursachin05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thakursachin05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- </div>
-<h1 align="center"> Best UI Projects </h1>
-   
-   <div align="center">
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=SmartCrypt)](https://github.com/thakursachin05/SmartCrypt) 
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Chillax)](https://github.com/thakursachin05/Chillax)
-  
-   </div>
-   
-   <div align="center">
-   
-   # Full Stack Projects
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=ChillTalk)](https://github.com/thakursachin05/ChillTalk)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Tryme_WebSite)](https://github.com/thakursachin05/Tryme_Website)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Codial)](https://github.com/thakursachin05/Codial)
-    
-   <div>
-<h1 align="center"> Mini Projects </h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-   <div align="center">
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Movie-DB)](https://github.com/thakursachin05/Movie-DB)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=Calculator_JS)](https://github.com/thakursachin05/Calculator_JS)
-   
-   </div>
-   
-<h1 align="center"> DSA </h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=thakursachin05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-   <div align="center">
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=CPP_ADVANCED_PROGRAMMING)](https://github.com/thakursachin05/CPP_ADVANCED_PROGRAMMING)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=MASTERING_CPP)](https://github.com/thakursachin05/MASTERING_CPP)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thakursachin05&repo=JAVA_DSA )](https://github.com/thakursachin05/JAVA_DSA)
-   
-   </div>
-   
-<h1 align="center"> Languages Used : </h1>
-
-   <div align="center">
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thakursachin05)](https://github.com/thakursachin05/thakursachin05)
-   
-   </div>
-
-<!--
-**thakursachin05/thakursachin05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
