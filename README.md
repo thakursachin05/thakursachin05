@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am currently a forward Deployed Engineer at Zomato
+* 🔭 I’m currently working on **voice AI agents, LLM workflows, and production-grade automation systems** as a Forward Deployed Engineer.
+* 👯 I’m looking to collaborate on **AI agents, edtech products, developer tools, and real-world automation projects**.
+* 🤝 I’m looking for help with **open-source AI projects, scalable agent architecture, and building global product engineering experience**.
+* 🌱 I’m currently learning **advanced agentic systems, evaluations, system design, and better technical communication**.
+* 💬 Ask me about **LLMs, voice bots, RAG, Angular, React, Node.js, Python, MongoDB, and building AI products from idea to deployment**.
+* ⚡ Fun fact: I enjoy turning messy business workflows into clean AI-powered systems that actually work in production.
 
 
 ## 🌐 Socials:
